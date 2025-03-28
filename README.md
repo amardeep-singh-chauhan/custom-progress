@@ -1,1 +1,1 @@
-# custom-progress
+# custom-progress-bar
